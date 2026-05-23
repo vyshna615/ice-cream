@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: http://www.phgentrade.com/sitemap.xml
